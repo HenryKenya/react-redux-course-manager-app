@@ -93,6 +93,46 @@
       "category": "test",
       "createdAt": 1588014172034,
       "slug": "test"
+    },
+    {
+      "id": 14,
+      "title": "DIY with Joseph",
+      "authorId": 2,
+      "category": "Awesome",
+      "createdAt": 1588014966931,
+      "slug": "diy-with-joseph"
+    },
+    {
+      "id": 15,
+      "title": "Another title",
+      "authorId": 1,
+      "category": "Test",
+      "createdAt": 1588015063428,
+      "slug": "another-title"
+    },
+    {
+      "id": 16,
+      "title": "Yipee",
+      "authorId": 2,
+      "category": "Again",
+      "createdAt": 1588015296296,
+      "slug": "yipee"
+    },
+    {
+      "id": 17,
+      "title": "Welp",
+      "authorId": 1,
+      "category": "henry",
+      "createdAt": 1588015357788,
+      "slug": "welp"
+    },
+    {
+      "id": 18,
+      "title": "Another one",
+      "authorId": 2,
+      "category": "Ahhjh",
+      "createdAt": 1588015453279,
+      "slug": "another-one"
     }
   ],
   "authors": [
