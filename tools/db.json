@@ -72,67 +72,11 @@
     },
     {
       "id": 11,
-      "title": "New Course",
-      "authorId": 1,
+      "title": "Awesome new course changed",
+      "authorId": 2,
       "category": "New category",
-      "createdAt": 1588014147267,
-      "slug": "new-course"
-    },
-    {
-      "id": 12,
-      "title": "New Course",
-      "authorId": 1,
-      "category": "New category",
-      "createdAt": 1588014149385,
-      "slug": "new-course"
-    },
-    {
-      "id": 13,
-      "title": "test",
-      "authorId": 1,
-      "category": "test",
-      "createdAt": 1588014172034,
-      "slug": "test"
-    },
-    {
-      "id": 14,
-      "title": "DIY with Joseph",
-      "authorId": 2,
-      "category": "Awesome",
-      "createdAt": 1588014966931,
-      "slug": "diy-with-joseph"
-    },
-    {
-      "id": 15,
-      "title": "Another title",
-      "authorId": 1,
-      "category": "Test",
-      "createdAt": 1588015063428,
-      "slug": "another-title"
-    },
-    {
-      "id": 16,
-      "title": "Yipee",
-      "authorId": 2,
-      "category": "Again",
-      "createdAt": 1588015296296,
-      "slug": "yipee"
-    },
-    {
-      "id": 17,
-      "title": "Welp",
-      "authorId": 1,
-      "category": "henry",
-      "createdAt": 1588015357788,
-      "slug": "welp"
-    },
-    {
-      "id": 18,
-      "title": "Another one",
-      "authorId": 2,
-      "category": "Ahhjh",
-      "createdAt": 1588015453279,
-      "slug": "another-one"
+      "createdAt": 1588045689740,
+      "slug": "awesome-new-course"
     }
   ],
   "authors": [
