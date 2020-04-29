@@ -53,6 +53,6 @@ export function saveCourse(course) {
 export function deleteCourse(course) {
   return function (dispatch) {
     dispatch(deleteCourseOptimistic(course));
-    return courseApi.deleteCourse(course);
+    return courseApi.deleteCourse(course.id);
   };
 }
