@@ -1,4 +1,6 @@
-# Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
+# React-Redux
+
+React-redux application implemented while following Cory House tutorial on Pluralsight
 
 ## Get Started
 
